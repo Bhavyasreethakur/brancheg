@@ -1,2 +1,6 @@
 second fiel
 testing
+<<<<<<< HEAD
+=======
+merge test
+>>>>>>> checkoutbr
